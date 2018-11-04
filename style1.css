@@ -1,0 +1,37 @@
+.container
+{
+  display:flex;
+  flex-direction: column;
+}
+.column
+{
+  border:1px solid white;
+}
+.gris
+{
+  background:grey;
+  min-width:2vw;
+  min-height: 8vw;
+  border:1px solid white;
+}
+.jaune
+{
+  background:yellow;
+  min-width:2vw;
+  min-height: 8vw;
+  border:1px solid white;
+}
+.orange
+{
+  background:orange;
+  min-width:2vw;
+  min-height: 8vw;
+  border:1px solid white;
+}
+.noir
+{
+  background:black;
+  min-width:2vw;
+  min-height: 8vw;
+  border:1px solid white;
+}

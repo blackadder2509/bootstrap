@@ -1,0 +1,111 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+
+  <link rel="stylesheet" href="style1.css"/>
+  <title>oeil_de_sauron</title>
+</head>
+
+<body>
+  <div class="container grille">
+    <div class="row une">
+      <div class="col-1 gris"></div>
+      <div class="col-1 offset-9 gris"></div>
+    </div>
+    <div class="row deux">
+      <div class="col-1 gris"></div>
+      <div class="col-1 offset-3 orange"></div>
+      <div class="col-1 jaune"></div>
+      <div class="col-1 orange"></div>
+      <div class="col-1 offset-3 gris"></div>
+    </div>
+    <div class="row trois">
+      <div class="col-1 gris"></div>
+      <div class="col-1 offset-2 orange"></div>
+      <div class="col-1 jaune"></div>
+      <div class="col-1 noir"></div>
+      <div class="col-1 jaune"></div>
+      <div class="col-1 orange"></div>
+      <div class="col-1 offset-2 gris"></div>
+    </div>
+    <div class="row quatre">
+      <div class="col-1 gris"></div>
+      <div class="col-1 gris"></div>
+      <div class="col-1 orange"></div>
+      <div class="col-1 orange"></div>
+      <div class="col-1 jaune"></div>
+      <div class="col-1 noir"></div>
+      <div class="col-1 jaune"></div>
+      <div class="col-1 orange"></div>
+      <div class="col-1 orange"></div>
+      <div class="col-1 gris"></div>
+      <div class="col-1 gris"></div>
+    </div>
+    <div class="row cinq">
+      <div class="col-1 gris"></div>
+      <div class="col-1 gris"></div>
+      <div class="col-1 offset-1 orange"></div>
+      <div class="col-1 jaune"></div>
+      <div class="col-1 noir"></div>
+      <div class="col-1 jaune"></div>
+      <div class="col-1 orange"></div>
+      <div class="col-1 offset-1 gris"></div>
+      <div class="col-1 gris"></div>
+    </div>
+    <div class="row six">
+      <div class="col-1 gris"></div>
+      <div class="col-1 gris"></div>
+      <div class="col-1 gris"></div>
+      <div class="col-1 offset-1 orange"></div>
+      <div class="col-1 jaune"></div>
+      <div class="col-1 orange"></div>
+      <div class="col-1 offset-1 gris"></div>
+      <div class="col-1 gris"></div>
+      <div class="col-1 gris"></div>
+    </div>
+    <div class="row sept">
+      <div class="col-1 offset-1 gris"></div>
+      <div class="col-1 gris"></div>
+      <div class="col-1 gris"></div>
+      <div class="col-1 offset-3 gris"></div>
+      <div class="col-1 gris"></div>
+      <div class="col-1 gris"></div>
+    </div>
+    <div class="row huit">
+      <div class="col-1 offset-2 gris"></div>
+      <div class="col-1 gris"></div>
+      <div class="col-1 gris"></div>
+      <div class="col-1 gris"></div>
+      <div class="col-1 gris"></div>
+      <div class="col-1 gris"></div>
+      <div class="col-1 gris"></div>
+    </div>
+    <div class="row neuf">
+      <div class="col-1 offset-3 gris"></div>
+      <div class="col-1 gris"></div>
+      <div class="col-1 gris"></div>
+      <div class="col-1 gris"></div>
+      <div class="col-1 gris"></div>
+    </div>
+    <div class="row dix">
+      <div class="col-1 offset-4 gris"></div>
+      <div class="col-1 gris"></div>
+      <div class="col-1 gris"></div>
+    </div>
+    <div class="row onze">
+      <div class="col-1 offset-4 gris"></div>
+      <div class="col-1 gris"></div>
+      <div class="col-1 gris"></div>
+    </div>
+  </div>
+
+
+  <footer>
+  </footer>
+  <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+
+</body>
+</html>
